@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 gem 'sinatra'
-gem 'activerecord', '4.2.0'
+gem 'activerecord', '5.1.0'
 gem 'sinatra-activerecord'
 gem 'rake'
 gem 'require_all'
